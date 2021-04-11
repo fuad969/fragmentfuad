@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragmenfuad</string>
+    <string name="action_setting">Setting</string>
+    <string name="hellow_blank_fragment">Hellow Blank Fragment</string>
+    <string name="tittle_activity_second">SecondActivity</string>
+    <string name="pencet_tombol">Tekan Tombolnya</string>
+    <string name="tampil_tombol">Tampilkan Details</string>
+    <string name="disini_tampil">Di sini Kami Me iliki Detailnya</string>
+
+</resources>
